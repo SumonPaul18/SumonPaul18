@@ -1,6 +1,10 @@
+
+
+![I am Full Stack Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGbBLwwwvyUwg/profile-displaybackgroundimage-shrink_200_800/0/1653502316666?e=1667433600&v=beta&t=-UUEmRCwzYk8WKO9mkNOet5wPAlH0mQeLNDinGdXU24)
+
 ### Hi there 👋, I'm Sumon Paul
 #### I am Full Stack Developer
-![I am Full Stack Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGbBLwwwvyUwg/profile-displaybackgroundimage-shrink_200_800/0/1653502316666?e=1667433600&v=beta&t=-UUEmRCwzYk8WKO9mkNOet5wPAlH0mQeLNDinGdXU24)
+
 
 I have 7 years working experience. I'm already certified on RHCE, RHCSA, CCNA, MCSA, MTCNA and preparing for advanced certification. yes, i'm a tech person. I am currently working as System Engineer in Kumudini Phama Limited. I want to gather knowledge, research then apply it and learn more new things.
 
