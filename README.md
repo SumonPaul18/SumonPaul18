@@ -8,7 +8,7 @@
 
 I have 7 years working experience. I'm already certified on RHCE, RHCSA, CCNA, MCSA, MTCNA and preparing for advanced certification. yes, i'm a tech person. I am currently working as System Engineer in Kumudini Phama Limited. I want to gather knowledge, research then apply it and learn more new things.
 
-Skills: RHCE ‣RHCSA ‣CCNA ‣MCSA ‣MTCNA
+Skills: RHCE|RHCSA|CCNA|MCSA|MTCNA
 
 - 🔭 I’m currently working on Kumudini Pharma Limited 
 - 🌱 I’m currently learning DevOps 
