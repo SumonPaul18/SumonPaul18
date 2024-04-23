@@ -1,14 +1,14 @@
 
 
-[I am Full Stack Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGbBLwwwvyUwg/profile-displaybackgroundimage-shrink_200_800/0/1653502316666?e=1667433600&v=beta&t=-UUEmRCwzYk8WKO9mkNOet5wPAlH0mQeLNDinGdXU24)
+[YouTube](https://github.com/SumonPaul18/WebDev/blob/main/CE-Round-Logo.png)
 
-### Hi 👋, I'm Sumon Paul
-#### I'm System Administrator & Devops Engineer also Full Stack Developer 
+### Hi 👋, This is Sumon Paul
+#### I'm System Administrator & Devops Engineer also IoT Engineer 
 
 
 I have 7 years working experience. I'm already certified on RHCE, RHCSA, CCNA, MCSA, MTCNA and preparing for advanced certification. yes, i'm a tech person. I am currently working as Assistant Manager in Aamra Network Limited. I want to gather knowledge, research then apply it and learn more new things.
 
-## Skills: DevOps | OpenStack | RHCE | RHCSA | CCNA | MCSA | MTCNA
+## Skills: IoT | DevOps | OpenStack | RHCE | RHCSA | CCNA | MCSA | MTCNA
 
 - 🔭 I’m currently working on Aamra Network Ltd. 
 - 🌱 I’m currently learning DevOps 
@@ -21,7 +21,7 @@ I have 7 years working experience. I'm already certified on RHCE, RHCSA, CCNA, M
 
 I'm design, implementation, deployment, and maintaiance overall IT systems like as 
 
-- Kuberneties
+- Kuberneties Cluster
 - Docker/Container
 - Server Virtualization
 - Cloud Computing
@@ -29,12 +29,12 @@ I'm design, implementation, deployment, and maintaiance overall IT systems like 
 - DNS Server
 - ADDS Server
 - Group Policy Deploy
-- Mail Server Configure & Maintaiance
-- Web server Configure & Maintaiance
-- Database Server Configure & Maintaiance
+- Mail Server [Zimbra,Postfix,Webmail,Exchnage Server]
+- Web server 
+- Database [Oracle Apex,Firebase,SQL,mysql]
 - Backup Server
 - Storage Server
-- Network Manage & Monitoring (OSPF, Bandwidth, firewall, VPN)
+- Network Manage & Monitoring (Rounting Protocal,VPN,firewall)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SumonPaul18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sumonpaul//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/skp.39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sumonpaul95)  
