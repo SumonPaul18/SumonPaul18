@@ -1,6 +1,6 @@
 
 
-[YouTube](https://github.com/SumonPaul18/WebDev/blob/main/CE-Round-Logo.png)
+
 
 ### Hi 👋, This is Sumon Paul
 #### I'm System Administrator & Devops Engineer also IoT Engineer 
