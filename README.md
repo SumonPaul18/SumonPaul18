@@ -4,7 +4,7 @@
 
 ## 
 
-#### I'm a Devops Engineer also IoT Engineer 
+#### I'm a Devops Engineer & also IoT Engineer 
 
 
 I have 8 years working experience. I'm already certified on RHCE, RHCSA, CCNA, MCSA, MTCNA and preparing for advanced certification. yes, i'm a tech person. I am currently working as Assistant Manager in Aamra Network Limited. I want to gather knowledge, research then apply it and learn more new things.
