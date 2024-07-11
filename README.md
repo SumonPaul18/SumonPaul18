@@ -4,7 +4,7 @@
 
 ## 
 
-#### I'm a DevOps Engineer & also IoT
+#### I'm a DevOps Engineer & also IoT Engineer
 
 
 I have 8 years working experience. I'm already certified on RHCE, RHCSA, CCNA, MCSA, MTCNA and preparing for advanced certification. Yes, i'm a tech person. I am currently working as Cloud & System Engineer at Aamra Network Limited. I want to acquire knowledge, research, apply and learn more!
