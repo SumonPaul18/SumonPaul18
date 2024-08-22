@@ -1,6 +1,6 @@
 
 ## Hey EveryOne 👋, I'm Sumon Paul
-![sumonpaul-cover](https://github.com/SumonPaul18/SumonPaul18/blob/main/image/SumonPaul.png)
+![sumonpaul-cover](https://github.com/SumonPaul18/SumonPaul18/blob/main/image/sp-linkedin-cover.gif)
 
 ## 
 
