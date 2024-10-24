@@ -1,7 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=sumonpaul18&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hey EveryOne 👋, I'm Sumon Paul
 ![sumonpaul-cover](https://github.com/SumonPaul18/SumonPaul18/blob/main/image/sp-linkedin-cover.gif)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/SumonPaul18)
 ## 
 #### I'm a DevOps Engineer
 
@@ -90,5 +90,6 @@ I'm design, implementation, deployment, and maintaiance overall IT systems like 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SumonPaul18)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SumonPaul18&show_icons=true)  
-  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/SumonPaul18)
 --->
