@@ -1,12 +1,14 @@
 [![](https://visitcount.itsvg.in/api?id=sumonpaul18&icon=0&color=0)](https://visitcount.itsvg.in)
-## Hey EveryOne 👋, I'm Sumon Paul
+<div align="center">
 ![sumonpaul-cover](https://github.com/SumonPaul18/SumonPaul18/blob/main/image/sp-linkedin-cover.gif)
+<h1>Sumon Paul</h1>
+<p>DevOps Engineer | Cloud Enthusiast</p>
+<p>Building scalable and reliable infrastructure solutions.</p>
+</div>
 
-## 
-#### I'm a DevOps Engineer
+DevOps Engineer with 8 years of hands-on experience in designing, building, and maintaining robust and scalable IT infrastructures. Proven expertise in Linux/Unix systems administration, networking, and virtualization, with certifications including RHCE, RHCSA, CCNA, MCSA, and MTCNA.
 
-
-I have 8 years working experience. I'm already certified on RHCE, RHCSA, CCNA, MCSA, MTCNA and preparing for advanced certification. Yes, i'm a tech person. I am currently working as Cloud & System Engineer at Aamra Network Limited. I want to acquire knowledge, research, apply and learn more!
+Currently driving the adoption of cloud technologies and automation at Aamra Network Limited, where I contribute to the development and deployment of high-performance, reliable, and cost-effective solutions. Continuously seeking to expand my knowledge and explore emerging technologies to enhance operational efficiency and drive innovation.
 
 ## Skills: IoT | DevOps | OpenStack | RHCE | RHCSA | CCNA | MCSA | MTCNA
 
