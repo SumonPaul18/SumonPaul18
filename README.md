@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://www.youtube.com/@cloudengineer187">
-  <img src="https://img.icons8.com/color/48/000000/blog.png" alt="Blogs" height="32" width="32">
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-blogs-digital-content-wanicon-lineal-color-wanicon.png" alt="external-blogs-digital-content-wanicon-lineal-color-wanicon" height="32" width="32"/>
 </a>
 
 </div>
