@@ -8,18 +8,23 @@
 <h1>Sumon Paul</h1>
 <p>DevOps Engineer | Cloud Enthusiast</p>
 <p>Building scalable and reliable infrastructure solutions.</p>
+
 <a href="https://www.linkedin.com/in/sumonpaul/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="32" width="32">
 </a>
+
 <a href="https://x.com/sumon_paul25">
   <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="32" width="32">
 </a>
+
 <a href="https://www.facebook.com/skp.39">
   <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="32" width="32">
 </a>
+
 <a href="https://www.youtube.com/@cloudengineer187">
   <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube" height="32" width="32">
 </a>
+
 </div>
 
 Driven DevOps Engineer with 8+ years of experience in designing, building, and maintaining robust and scalable IT infrastructures. Proven expertise in Linux/Unix systems administration, networking, virtualization, and cloud technologies. Passionate about automation, continuous improvement, and collaborating on open-source projects.
