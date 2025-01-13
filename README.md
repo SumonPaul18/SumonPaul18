@@ -8,6 +8,16 @@
 <h1>Sumon Paul</h1>
 <p>DevOps Engineer | Cloud Enthusiast</p>
 <p>Building scalable and reliable infrastructure solutions.</p>
+
+<a href="[Your LinkedIn Profile URL]">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="32" width="32">
+</a>
+<a href="[Your Twitter Handle]">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="32" width="32">
+</a>
+<a href="[Your Facebook Profile URL]">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="32" width="32">
+</a>
 </div>
 
 DevOps Engineer with 8 years of hands-on experience in designing, building, and maintaining robust and scalable IT infrastructures. Proven expertise in Linux/Unix systems administration, networking, and virtualization, with certifications including RHCE, RHCSA, CCNA, MCSA, and MTCNA.
