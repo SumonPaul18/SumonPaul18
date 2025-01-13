@@ -15,8 +15,8 @@
 <a href="https://x.com/sumon_paul25">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="32" width="32">
 </a>
-<a href="[Your Facebook Profile URL]">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="32" width="32">
+<a href="https://www.facebook.com/skp.39">
+<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="32" width="32">
 </a>
 </div>
 
