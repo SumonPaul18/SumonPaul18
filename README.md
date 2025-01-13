@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/sumonpaul/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="32" width="32">
 </a>
-<a href="[Your Twitter Handle]">
+<a href="https://x.com/sumon_paul25">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="32" width="32">
 </a>
 <a href="[Your Facebook Profile URL]">
