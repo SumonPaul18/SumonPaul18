@@ -20,9 +20,9 @@
 </a>
 </div>
 
-DevOps Engineer with 8 years of hands-on experience in designing, building, and maintaining robust and scalable IT infrastructures. Proven expertise in Linux/Unix systems administration, networking, and virtualization, with certifications including RHCE, RHCSA, CCNA, MCSA, and MTCNA.
-
-Currently driving the adoption of cloud technologies and automation at Aamra Network Limited, where I contribute to the development and deployment of high-performance, reliable, and cost-effective solutions. Continuously seeking to expand my knowledge and explore emerging technologies to enhance operational efficiency and drive innovation.
+* Driven DevOps Engineer with 8+ years of experience in designing, building, and maintaining robust and scalable IT infrastructures.
+* Proven expertise in Linux/Unix systems administration, networking, virtualization, and cloud technologies.
+* Passionate about automation, continuous improvement, and collaborating on open-source projects.
 
 ## Skills: IoT | DevOps | OpenStack | RHCE | RHCSA | CCNA | MCSA | MTCNA
 
