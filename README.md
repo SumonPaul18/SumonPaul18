@@ -9,7 +9,7 @@
 <p>DevOps Engineer | Cloud Enthusiast</p>
 <p>Building scalable and reliable infrastructure solutions.</p>
 
-<a href="[Your LinkedIn Profile URL]">
+<a href="https://www.linkedin.com/in/sumonpaul/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="32" width="32">
 </a>
 <a href="[Your Twitter Handle]">
@@ -20,9 +20,7 @@
 </a>
 </div>
 
-* Driven DevOps Engineer with 8+ years of experience in designing, building, and maintaining robust and scalable IT infrastructures.
-* Proven expertise in Linux/Unix systems administration, networking, virtualization, and cloud technologies.
-* Passionate about automation, continuous improvement, and collaborating on open-source projects.
+Driven DevOps Engineer with 8+ years of experience in designing, building, and maintaining robust and scalable IT infrastructures. Proven expertise in Linux/Unix systems administration, networking, virtualization, and cloud technologies. Passionate about automation, continuous improvement, and collaborating on open-source projects.
 
 ## Skills: IoT | DevOps | OpenStack | RHCE | RHCSA | CCNA | MCSA | MTCNA
 
