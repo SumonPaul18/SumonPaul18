@@ -32,8 +32,6 @@ Passionate about building, automating, and scaling reliable systems in the cloud
 
 ---
 
-<h1>🚀 About Me </h1>
-
 ## 🚀 About Me
 
 * 🔭 I'm currently contributing to and managing infrastructure projects at **Aamra Network Ltd.**, focusing on enhancing reliability and scalability.
@@ -59,9 +57,8 @@ Leveraging a strong foundation validated by industry certifications:
 
 ---
 ## 🏋️‍♀️ Core Skills 
-<h3>- sumon</h3> 
-- **Linux/Unix System Administration**
--  **Networking**
+#### - Linux/Unix System Administration
+#### - Networking
 -  **Virtualization**
 -  Cloud Infrastructure Design
 -  Automation
