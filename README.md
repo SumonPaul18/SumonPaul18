@@ -139,36 +139,38 @@ A comprehensive look at the technologies and tools I work with daily to build ro
 
 ---
 
-  #
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
+**Note:** If the images below are not loading, this is usually a temporary issue with the external services that generate them. They should appear correctly soon, or you can try refreshing the page.
+
 ![](https://github-readme-stats.vercel.app/api?username=sumonpaul18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumonpaul18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonpaul18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumonpaul18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+
+<!---
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+--->
+
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumonpaul18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  #
+<p align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='45' height='45' alt="Arctic Code Vault Contributor"></a>  
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='45' height='45' alt="GitHub Developer"></a>  
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='45' height='45' alt="GitHub Pro"></a>  
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40' height='40' alt="GitHub Stars"></a>
+</p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SumonPaul18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sumonpaul//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/skp.39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sumonpaul95)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<!---
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/SumonPaul18)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SumonPaul18)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SumonPaul18&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/SumonPaul18)
---->
+---
