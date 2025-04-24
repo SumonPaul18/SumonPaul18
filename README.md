@@ -48,6 +48,8 @@ Passionate about building, automating, and scaling reliable systems in the cloud
 
 Leveraging a strong foundation validated by industry certifications:
 
+* **CKA:** Certified Kubernetes Administrator
+* **CDE:** Certified DevOps Engineer
 * **Red Hat:** RHCE, RHCSA
 * **Cisco:** CCNA
 * **Microsoft:** MCSA
