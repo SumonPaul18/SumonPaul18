@@ -5,7 +5,7 @@
 ![sumonpaul-cover](https://github.com/SumonPaul18/SumonPaul18/blob/main/image/sp-linkedin-cover.gif)
 
 <h1>Sumon Paul</h1>
-<h2>DevOps Engineer | Cloud Enthusiast</h2>
+<h3>☁️ DevOps Engineer | Cloud Enthusiast | Infrastructure Architect</h3>
 <p>Building scalable and reliable infrastructure solutions.</p>
 
 <a href="https://www.linkedin.com/in/sumonpaul/">
