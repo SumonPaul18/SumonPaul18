@@ -29,8 +29,8 @@
 </a>
 
 </div>
-
-Driven DevOps Engineer with 8+ years of experience in designing, building, and maintaining robust and scalable IT infrastructures. Proven expertise in Linux/Unix systems administration, networking, virtualization, and cloud technologies. Passionate about automation, continuous improvement, and collaborating on open-source projects.
+---
+Passionate about building, automating, and scaling reliable systems in the cloud and on-premises. With over **8 years of hands-on experience** in the IT industry, I specialize in bridging the gap between development and operations to deliver efficient and resilient infrastructure solutions. My expertise spans Linux/Unix systems, networking, virtualization, and comprehensive cloud environments. I thrive on continuous learning, contributing to open-source, and tackling complex challenges in automation and infrastructure design.
 
 ## Skills: IoT | DevOps | OpenStack | RHCE | RHCSA | CCNA | MCSA | MTCNA
 
