@@ -1,4 +1,4 @@
-![](https://visitcount.itsvg.in/api?id=sumonpaul18&icon=0&color=0)(https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sumonpaul18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
 
@@ -59,11 +59,7 @@ Leveraging a strong foundation validated by industry certifications:
 ## 🛠️ Tech Stack
 
 A comprehensive look at the technologies and tools I work with daily to build robust systems:
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
+    
 #### **DevOps, CI/CD, & Version Control**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -90,9 +86,6 @@ A comprehensive look at the technologies and tools I work with daily to build ro
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-    </td>
-    <td valign="top" width="50%">
 
 #### **Containerization & Orchestration**
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -143,10 +136,6 @@ A comprehensive look at the technologies and tools I work with daily to build ro
 #### **Monitoring & Observability** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
-    </td>
-  </tr>
-</table>
 
 ---
 
