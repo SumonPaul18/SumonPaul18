@@ -14,19 +14,19 @@ Passionate about building, automating, and scaling reliable systems in the cloud
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumonpaul/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="35" width="35">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="32" width="32">
   </a>  
   <a href="https://x.com/sumon_paul25" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="35" width="35">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="X (formerly Twitter)" height="32" width="32">
   </a>  
   <a href="https://www.facebook.com/skp.39" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="35" width="35">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="Facebook" height="32" width="32">
   </a>  
   <a href="https://www.youtube.com/@cloudengineer187" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube.png" alt="YouTube" height="35" width="35">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" alt="YouTube" height="32" width="32">
   </a>  
   <a href="https://blog.paulco.xyz" target="_blank">
-    <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/external-blogs-digital-content-wanicon-lineal-color-wanicon.png" alt="Blog" height="35" width="35"/>
+     <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/book-open.svg" alt="Blog" height="32" width="32">
   </a>
 </p>
 
