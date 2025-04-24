@@ -148,23 +148,21 @@ A comprehensive look at the technologies and tools I work with daily to build ro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonpaul18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sumonpaul18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumonpaul18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
 <!---
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 --->
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumonpaul18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 <p align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='45' height='45' alt="Arctic Code Vault Contributor"></a>  
