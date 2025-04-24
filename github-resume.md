@@ -32,8 +32,6 @@ Passionate about building, automating, and scaling reliable systems in the cloud
 
 ---
 
----
-
 ## 🚀 About Me
 
 Driven DevOps Engineer with **8+ years** of hands-on experience in designing, building, and optimizing robust, scalable, and reliable IT infrastructures. I bridge the gap between development and operations through automation, cloud technologies, and continuous improvement. Passionate about open-source collaboration and tackling complex infrastructure challenges across diverse environments.
