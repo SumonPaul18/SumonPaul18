@@ -14,20 +14,18 @@ Passionate about building, automating, and scaling reliable systems in the cloud
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumonpaul/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="32" width="32">
-  </a>  
-  <a href="https://x.com/sumon_paul25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="X (formerly Twitter)" height="32" width="32">
-  </a>  
-  <a href="https://www.facebook.com/skp.39" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" alt="Facebook" height="32" width="32">
-  </a>  
-  <a href="https://www.youtube.com/@cloudengineer187" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" alt="YouTube" height="32" width="32">
-  </a>  
-  <a href="https://blog.paulco.xyz" target="_blank">
-     <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/book-open.svg" alt="Blog" height="32" width="32">
+    <img src="https://img.shields.io/badge/LinkedIn-sumonpaul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://x.com/sumon_paul25" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-sumon_paul25-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"> </a>
+  <a href="https://www.facebook.com/skp.39" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-skp.39-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="[Your YouTube Channel URL]" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://blog.paulco.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-paulco.xyz-FF5500?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"> </a>
 </p>
 
 </div>
