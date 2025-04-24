@@ -57,17 +57,17 @@ Leveraging a strong foundation validated by industry certifications:
 
 ---
 ## 🏋️‍♀️ Core Skills 
-#### - Linux/Unix System Administration
-#### - Networking
--  **Virtualization**
--  Cloud Infrastructure Design
--  Automation
--  CI/CD
--  Infrastructure as Code (IaC)
--  Monitoring & Logging
--  Troubleshooting
--  IT Security Fundamentals
--  IoT Systems
+- **Linux/Unix System Administration**
+- **Networking**
+- **Virtualization**
+- **Cloud Infrastructure Design**
+- **Automation**
+- **CI/CD**
+- **Infrastructure as Code (IaC)**
+- **Monitoring & Logging**
+- **Troubleshooting**
+- **IT Security Fundamentals**
+- **IoT Systems**
 
 ---
 
