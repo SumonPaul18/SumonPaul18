@@ -54,7 +54,19 @@ Leveraging a strong foundation validated by industry certifications:
 * **Cisco:** CCNA
 * **Microsoft:** MCSA
 * **MikroTik:** MTCNA
-* **Core Skills:** Linux/Unix System Administration, Networking, Virtualization, Cloud Infrastructure Design, Automation, CI/CD, Infrastructure as Code (IaC), Monitoring & Logging, Troubleshooting, IT Security Fundamentals, IoT Systems.
+  
+* **Core Skills:** 
+- Linux/Unix System Administration
+-  Networking
+-  Virtualization
+-  Cloud Infrastructure Design
+-  Automation
+-  CI/CD
+-  Infrastructure as Code (IaC)
+-  Monitoring & Logging
+-  Troubleshooting
+-  IT Security Fundamentals
+-  IoT Systems.
 
 ---
 
