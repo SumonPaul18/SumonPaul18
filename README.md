@@ -54,11 +54,13 @@ Leveraging a strong foundation validated by industry certifications:
 * **Cisco:** CCNA
 * **Microsoft:** MCSA
 * **MikroTik:** MTCNA
-  
-* **Core Skills:** 
-- Linux/Unix System Administration
--  Networking
--  Virtualization
+
+---
+## 🏋️‍♀️ Core Skills 
+#### - sumon
+- **Linux/Unix System Administration**
+-  **Networking**
+-  **Virtualization**
 -  Cloud Infrastructure Design
 -  Automation
 -  CI/CD
@@ -66,7 +68,7 @@ Leveraging a strong foundation validated by industry certifications:
 -  Monitoring & Logging
 -  Troubleshooting
 -  IT Security Fundamentals
--  IoT Systems.
+-  IoT Systems
 
 ---
 
