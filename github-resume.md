@@ -145,24 +145,19 @@ A comprehensive look at the technologies and tools I work with daily to build ro
 
 ![](https://github-readme-stats.vercel.app/api?username=sumonpaul18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumonpaul18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonpaul18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonpaul18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
   ![](https://github-profile-trophy.vercel.app/?username=sumonpaul18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
 
 ---
 
-### ✍️ Random Dev Quote
+``### ✍️ Random Dev Quote``
 
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+``  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
