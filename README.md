@@ -34,7 +34,7 @@ Passionate about building, automating, and scaling reliable systems in the cloud
 
 ## 🚀 About Me
 
-* 🔭 I'm currently contributing to and managing infrastructure projects at **Aamra Network Ltd.**, focusing on enhancing reliability and scalability.
+* 🔭 I'm currently contributing to and managing infrastructure projects at **Meghna Cloud**, focusing on enhancing reliability and scalability.
 * 🌱 I'm continuously deepening my knowledge in **cloud-native architectures**, **advanced Kubernetes patterns**, and **DevOps security practices**.
 * 💡 I'm particularly interested in **automating complex workflows**, **optimizing CI/CD pipelines**, and exploring **IoT solutions** from an infrastructure perspective.
 * 🤝 I'm actively looking for opportunities to **collaborate on open-source projects**, especially those related to cloud infrastructure, automation tools, or monitoring.
